@@ -1,5 +1,7 @@
 # datav-screen
 
+Large data visualization screen
+
 ## Project setup
 ```
 yarn install
